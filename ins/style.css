@@ -77,9 +77,9 @@ h1 {
 }
 
 .mi-width {
-    width: 50%;
+    width: 33%;
     padding: 5%;
-    padding-left: 150px;
+    padding-left: 30px;
 }
 
 .mi-p-color {
@@ -91,7 +91,7 @@ h1 {
 .vi-width {
     width: 50%;
     padding: 5%;
-    padding-left: 150px;
+    padding-left: 30px;
 }
 
 .vi-color {
@@ -110,7 +110,7 @@ h1 {
 .go-width {
     width: 50%;
     padding: 5%;
-    padding-left: 150px;
+    padding-left: 30px;
 
 }
 
@@ -124,4 +124,40 @@ h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     color: #424242;
+}
+
+.m-b-c {
+    background-color: #EDF5F6;
+    margin-left: 5%;
+    margin-right: 0%;
+    border-radius: 20px;
+}
+
+.v-b-c {
+    background-color: #FFEEEE;
+    margin-left: 5%;
+    margin-right: 0%;
+    border-radius: 20px;
+}
+
+.o-b-c {
+    background-color: #FFF4D6;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+}
+
+.illustration1 {
+    width: 60%;
+    padding-left: 0%;
+}
+
+.illustration2 {
+    width: 60%;
+    padding-left: 0%;
+}
+
+.illustration3 {
+    width: 60%;
+    padding-left: 0%;
 }

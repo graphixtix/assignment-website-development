@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 60px;
 }
 
 .red-color {
@@ -18,13 +18,14 @@ h1 {
 .header-part {
     width: 50%;
     padding: 5%;
-    padding-left: 150px;
+    padding-left: 150;
 }
 
 .header-part img {
     width: 80%;
     padding-right: 150px;
-    padding-left: 5%;
+    padding-left: 10%;
+
 }
 
 .header-para {

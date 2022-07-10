@@ -50,3 +50,78 @@ h1 {
     font-size: 16px;
     font-weight: 400;
 }
+
+.my-mission-in {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.mission-color {
+    color: #13103A;
+}
+
+.color-2022 {
+    color: #FFAD5A;
+}
+
+.se-part {
+    display: flex;
+}
+
+.mi-color {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: #000000;
+}
+
+.mi-width {
+    width: 50%;
+    padding: 5%;
+    padding-left: 150px;
+}
+
+.mi-p-color {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #424242;
+}
+
+.vi-width {
+    width: 50%;
+    padding: 5%;
+    padding-left: 150px;
+}
+
+.vi-color {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: #000000;
+}
+
+
+.vi-p-color {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #424242;
+}
+
+.go-width {
+    width: 50%;
+    padding: 5%;
+    padding-left: 150px;
+
+}
+
+.go-color {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: #000000;
+}
+
+.go-p-color {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #424242;
+}
